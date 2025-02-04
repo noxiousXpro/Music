@@ -44,8 +44,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VenomOwners")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Venom_Chatz")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NoxBots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NoxBots")
 
 
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "false")
@@ -87,21 +87,21 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "START_IMG_URL", "https://t.me/chutlungatera/115"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "PING_IMG_URL", "https://t.me/chutlungatera/115"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+PLAYLIST_IMG_URL = "https://t.me/chutlungatera/115"
+STATS_IMG_URL = "https://t.me/chutlungatera/115"
+TELEGRAM_AUDIO_URL = "https://t.me/chutlungatera/115"
+TELEGRAM_VIDEO_URL = "https://t.me/chutlungatera/115"
+STREAM_IMG_URL = "https://t.me/chutlungatera/115"
+SOUNCLOUD_IMG_URL = "https://t.me/chutlungatera/115"
+YOUTUBE_IMG_URL = "https://t.me/chutlungatera/115"
+SPOTIFY_ARTIST_IMG_URL = "https://t.me/chutlungatera/115"
+SPOTIFY_ALBUM_IMG_URL = "https://t.me/chutlungatera/115"
+SPOTIFY_PLAYLIST_IMG_URL = "https://t.me/chutlungatera/115"
 
 
 def time_to_seconds(time):
